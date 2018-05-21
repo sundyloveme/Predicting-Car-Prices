@@ -1,0 +1,3 @@
+'normalized-losses', 'wheel-base', 'length', 'width',  'height', 'curb-weight', 
+'num-of-cylinders', 'engine-size', 
+'bore', 'stroke', 'compression-rate', 'horsepower', 'peak-rpm', 'city-mpg', 'highway-mpg'                                    
